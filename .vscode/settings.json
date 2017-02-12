@@ -1,0 +1,10 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "files.autoSave": "afterDelay",
+    "editor.tabSize": 2,
+    "editor.wrappingColumn": 0,
+    "editor.insertSpaces": true,
+    "editor.wordWrap": true,
+
+    "extensions.autoUpdate": true
+}
